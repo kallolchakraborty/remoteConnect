@@ -1,6 +1,6 @@
 ## Application
 
-This is sample application to access S4H OP destination having basic authentication.
+This is sample application to access S4H OP destination.
 
 ### Commands
 
