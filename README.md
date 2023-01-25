@@ -15,4 +15,5 @@ This is sample application to access S4H OP destination having basic authenticat
 4. Create a `destionation service` & bind it to the application. To access the destination
 5. Create a `connectivity service` & bind it to the application.
 6. Restart the application.
+7. Min Req: Instance Memory: 64MB & Instance Disk: 256MB
 
