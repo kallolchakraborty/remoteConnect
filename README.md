@@ -16,6 +16,3 @@ This is sample application to access S4H OP destination having basic authenticat
 5. Create a `connectivity service` & bind it to the application.
 6. Restart the application.
 
-### References
-
-1. https://blogs.sap.com/2018/10/08/using-the-destination-service-in-the-cloud-foundry-environment/
